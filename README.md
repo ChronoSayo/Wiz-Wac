@@ -1,5 +1,7 @@
 # Wiz-Wac
 
+![Wiz Wac](http://chronosayo.com/Art/wizwac.png)
+
 ###### Roles: Programmer. 
 ###### Developed in: Unity3D, C#.
 [Download Here](http://chronosayo.com/Games/Wiz%20Wac%20(By%20Sayo).zip)
