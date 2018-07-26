@@ -2,8 +2,7 @@
 
 ![Wiz Wac](http://chronosayo.com/Art/wizwac.png)
 
-###### Roles: Programmer. 
-###### Developed in: Unity3D, C#.
+###### Roles: Programmer. <br> Developed in: Unity3D, C#.
 [Download Here](http://chronosayo.com/Games/Wiz%20Wac%20(By%20Sayo).zip)
 
 An open world game, heavily inspired by The Legend Of Zelda: Breath Of The Wild. This game replicates some elements from aforementioned game with my own creative design decision. The playable character has also been changed into a car, therefore game design as been built accustomed to that. Find the hidden shrines throughout this vast world to gain access to the last boss.
